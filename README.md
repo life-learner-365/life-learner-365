@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on developing technical skills in Python and SQL. <br>
 🌱 I’m currently learning Python and SQL. <br>
-👯 I’m looking to collaborate on projects that are related to sports, finance, health, or the envirnoment. <br>
+👯 I’m looking to collaborate on projects that are related to sports, finance, health, or the environment. <br>
 🤔 I’m looking for help improving my technical aptitude.<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vanessa-herrera-618631121/)<br>
 😄 Pronouns: she/her<br>
