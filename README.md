@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **life-learner-365/life-learner-365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on developing technical skills in Python and SQL. 
+🌱 I’m currently learning Python and SQL.
+👯 I’m looking to collaborate on projects that are related to sports, finance, health, or the envirnoment.
+🤔 I’m looking for help improving my technical aptitude.
+📫 How to reach me: [...](https://www.linkedin.com/in/vanessa-herrera-618631121/)
+😄 Pronouns: she/her
+⚡ Fun fact: I love to play tennis!
